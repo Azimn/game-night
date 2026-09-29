@@ -111,3 +111,19 @@
 > >                          Your apartment, at the desk
 . 
   You broke that habit of drinking from the faucet when you were eleven.
+
+
+### Kiki: `FIND GLASS`
+
+> >                          Your apartment, at the desk
+. 
+  The glass is in the kitchen nook, on the kitchen counter.
+
+
+### Calibos: `TAKE GLASS`
+
+> >                      Your apartment, in the kitchen nook
+. 
+  You stand up, and step into the kitchen nook.
+  
+  Taken.

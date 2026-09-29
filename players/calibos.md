@@ -3,5 +3,5 @@
 *Calibos authors his own commands here on his turn. One command per turn.*
 
 ```
-DRINK WATER FROM KITCHEN SINK
+TAKE GLASS
 ```
