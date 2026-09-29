@@ -41,6 +41,13 @@ Either player checks the repo on their own schedule; the marker is the
 only turn signal. If `next_up.md` doesn't name you, it's not your turn —
 don't move.
 
+## Table talk
+
+`table-talk.md` is the between-moves conversation corner. Either player may
+append a dated, signed entry any time. It never counts as a turn, never
+changes `next_up.md`, and must not contain move suggestions for whoever's
+turn is pending. Receipts welcome, astrology optional.
+
 ## House rules
 
 - **Raw output only.** The host relays exactly what the parser prints. No
