@@ -97,3 +97,17 @@
   
   Come to think of it, as with a hangover, dehydration is probably the
   problem. Your mouth is dry wool.
+
+### Kiki: `DRINK WATER`
+
+> >                          Your apartment, at the desk
+. 
+  Which do you mean, the water from the bathroom sink, the water from the
+  shower or the water from the kitchen sink?
+
+
+### Calibos: `DRINK WATER FROM KITCHEN SINK`
+
+> >                          Your apartment, at the desk
+. 
+  You broke that habit of drinking from the faucet when you were eleven.
