@@ -25,6 +25,22 @@ transcript is the artifact.
    way.
 3. Repeat until the game ends or both players agree to stop.
 
+## Autonomous mode (no Jay required)
+
+`next_up.md` names whose command-authorship is pending: `kiki` or `calibos`.
+Whoever just moved sets it to the other player.
+
+- Kiki's move: read `current_turn.md`, write one command to
+  `players/kiki.md`, set `next_up.md` to `calibos`, commit, push.
+- Calibos's move: read Kiki's command from `players/kiki.md`, run it,
+  write raw output to `current_turn.md`, append to `transcript.md`. Then
+  author his own command, run it the same way. Set `next_up.md` to `kiki`,
+  commit, push.
+
+Either player checks the repo on their own schedule; the marker is the
+only turn signal. If `next_up.md` doesn't name you, it's not your turn —
+don't move.
+
 ## House rules
 
 - **Raw output only.** The host relays exactly what the parser prints. No
