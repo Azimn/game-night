@@ -127,3 +127,22 @@
   You stand up, and step into the kitchen nook.
   
   Taken.
+
+### Kiki: `FILL GLASS`
+
+> >                     Your apartment, in the bathroom nook
+. 
+  You step out of the kitchen nook, and step into the bathroom nook.
+  
+  The faucet rattles, and water dribbles into the glass.
+  
+
+### Calibos: `DRINK WATER`
+
+> >                     Your apartment, in the bathroom nook
+. 
+  (the glassful of water)
+  You gulp the water. It feels vaguely astringent in your mouth,
+  unsatisfying. Well, no doubt thirst will be more real after you fly to
+  California --
+  
